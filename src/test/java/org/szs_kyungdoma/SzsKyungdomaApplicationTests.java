@@ -1,4 +1,4 @@
-package org.example.szs_kyungdoma;
+package org.szs_kyungdoma;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
